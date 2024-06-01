@@ -1,1 +1,1 @@
-# New-York-Home-Price-Analysis
+# New York Home Price Analysis
